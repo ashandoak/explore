@@ -1,5 +1,6 @@
 ---
 items:
+- leanprover/lean4
 - golang/go
 - swiftlang/swift
 - microsoft/TypeScript
